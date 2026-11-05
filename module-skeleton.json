@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recommendations-nextjs",
+  "capabilityKey": "planned:ecommerce:recommendations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-recommendations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/recommendations.md",
+  "presentationPlan": "projects/ecommerce/nextjs/recommendations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
